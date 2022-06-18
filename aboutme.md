@@ -15,18 +15,19 @@ Summary of research activity: The objective of this research project is to study
 Politecnico di Torino (Torino, Italy)  
 Tutor: Prof. Dario Daghero  
 Co-Tutor: Prof. Matteo Calandra (Università di Trento, Italy)  
-Thesis: [_Electron-phonon interactions in low-dimensional carbon systems: superconductivity and charge density waves_](https://iris.polito.it/handle/11583/2872341?mode=full.15420)
+Thesis: [_Electron-phonon interactions in low-dimensional carbon systems: superconductivity and charge density waves_](https://iris.polito.it/handle/11583/2872341?mode=full.15420)  
+Summary of research activity: In this thesis work, I investigated the effects of electron-phonon interactions in low-dimensional carbon allotropes from first principles. In particular, I focused on the emergence of superconducting phase transitions when doping systems by field effect and the appearance of charge density waves (CDW) due to reduced dimensionality. To do this, I exploited density functional theory (DFT) and its linear response extension (DFPT), also taking into account electronic correlations via hybrid exchange-correlation functionals and the approximation GW. Moreover, when studying the CDW transition, I also took into account the anharmonic phonon-phonon interaction via the Stochastic Self-Consistent Harmonic Approximation (SSCHA).
 
 ### Education
 
-* **2016 -- 2017**: _M2 in Fundamental Physics and Applications, Physics of Complex Systems_  
+* **2016 -- 2017**: [_M2 in Fundamental Physics and Applications, Physics of Complex Systems_](https://physics-complex-systems.fr/en/)  
 Sorbonne Universitées (Paris, France)  
 Grade: _good_
 
-* **2015 -- 2017**: _MSc in Physics of Complex Systems_  
+* **2015 -- 2017**: [_MSc in Physics of Complex Systems_](http://www.pcs.polito.it/)  
 Politecnico di Torino (Torino, Italy)  
 Grade: _110/110 cum Laude_
 
-* **2012 -- 2015**: _BSc in Physical Engineering_  
+* **2012 -- 2015**: [_BSc in Physical Engineering_](https://didattica.polito.it/laurea/ingegneria_fisica/en/welcome)  
 Politecnico di Torino (Torino, Italy)  
 Grade: _102/110_  
