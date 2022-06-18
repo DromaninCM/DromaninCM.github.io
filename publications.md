@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: Citations: 82 -- h-index: 5 -- i 10-index: 3
+subtitle: Citations 82 , h-index 5 , i 10-index 3
 ---
 
 * D. Romanin, M. Calandra and A. W. Chin, [_Highly tunable optics across a topological transition in organic polymers_](https://arxiv.org/abs/2204.00321), arXiv:2204.00321 [cond-mat.mes-hall] (2022) ;
