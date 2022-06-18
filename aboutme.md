@@ -4,6 +4,12 @@ title: Curriculum Vitae
 subtitle: 
 ---
 
+### Personal Informations
+
+* **Nationality**: Italian
+* **Languages**: Italian, English, French
+* **Actual position**: Post-doctoral fellow
+
 ### Work Experience
 
 * **11/2020 -- Today**: _Post-doctoral fellow_  
@@ -44,3 +50,7 @@ Topic: _Ab-initio study of the optical properties of multi-bridged acene polymer
 ### Administrative Responsibilities
 * 11/2017 -- 10/2020: _Representative of doctoral students for doctoral training in physics_  
 Participation in meetings of the doctoral college. Reference for any request for information concerning the doctoral program in physics. Organization of seminars for the seminar course of the doctorate in physics.
+
+### Conferences
+
+### Awards
