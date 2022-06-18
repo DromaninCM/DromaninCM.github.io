@@ -15,10 +15,10 @@ author: Davide Romanin
 
 navbar-links:
   CV: "aboutme"
-  Resources:
+  Research Activity:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  #Author's home: "https://deanattali.com"
+  Teaching: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -42,7 +42,7 @@ social-network-links:
   email: "davide.romanin@insp.upmc.fr"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-#  github: daattali
+   github: DromaninCM
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
