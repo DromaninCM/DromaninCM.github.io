@@ -40,6 +40,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "davide.romanin@insp.upmc.fr"
+  google-scholar: citations?user=0U81UJ8AAAAJ
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: DromaninCM
@@ -62,7 +63,6 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: 0000-0003-1094-5369
-   google-scholar: citations?user=0U81UJ8AAAAJ&hl=it
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
