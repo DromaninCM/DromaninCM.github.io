@@ -7,7 +7,7 @@ subtitle:
 ### Work Experience
 
 * **11/2020 -- Today**: _Post-doctoral fellow_  
-Sorbonne Université, CNRS - INSP (Paris, France) in Dr. Alex Chin's group  
+Sorbonne Universitées, CNRS - INSP (Paris, France) in Dr. Alex Chin's group  
 Subject: _Optical properties of topologically insulating pi-conjugated polymers_
 
 * **11/2017 -- 10/2020**: _PhD Student in Physics cum Laude_  
@@ -18,4 +18,14 @@ Thesis: [_Electron-phonon interactions in low-dimensional carbon systems: superc
 
 ### Education
 
- [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+* **2016 -- 2017**: _M2 in Fundamental Physics and Applications, Physics of Complex Systems_  
+Sorbonne Universitées (Paris, France)  
+Grade: _good_
+
+* **2015 -- 2017**: _MSc in Physics of Complex Systems_  
+Politecnico di Torino (Torino, Italy)  
+Grade: _110/110 cum Laude_
+
+* **2012 -- 2015**: _BSc in Physical Engineering_  
+Politecnico di Torino (Torino, Italy)  
+Grade: _102/110_  
