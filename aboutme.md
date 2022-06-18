@@ -31,3 +31,8 @@ Grade: _110/110 cum Laude_
 * **2012 -- 2015**: [_BSc in Physical Engineering_](https://didattica.polito.it/laurea/ingegneria_fisica/en/welcome)  
 Politecnico di Torino (Torino, Italy)  
 Grade: _102/110_  
+
+### Qualification for the functions of Lecturer
+* **France**:
+ * **Section 28**: Condensed Matter Physics;
+ * **Section 31**: Theoretical, Physical and Analytical Chemistry.
