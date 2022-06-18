@@ -34,5 +34,5 @@ Grade: _102/110_
 
 ### Qualification for the functions of Lecturer
 * **France**:
- * **Section 28**: Condensed Matter Physics;
- * **Section 31**: Theoretical, Physical and Analytical Chemistry.
+  * **Section 28**: Condensed Matter Physics;
+  * **Section 31**: Theoretical, Physical and Analytical Chemistry.
