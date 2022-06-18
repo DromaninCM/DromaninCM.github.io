@@ -15,10 +15,12 @@ author: Davide Romanin
 
 navbar-links:
   CV: "aboutme"
-  Research Activity:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Teaching: "https://deanattali.com"
+  Research Activity: "aboutme"
+    - Field Effect Doping Induced Superconductivity: "aboutme"
+    - Low-dimensional carbon allotropes: "aboutme"
+    - Topologically Insulating Polymers: "aboutme"
+  Publications: "aboutme"
+  Teaching: "aboutme"
 
 # --- Logo --- #
 
