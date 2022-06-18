@@ -6,8 +6,9 @@ subtitle:
 
 ### Work Experience
 
-* 2020 -- Today: **Post-doctoral fellow** at CNRS - INSP (Paris, France) in Dr. Alex Chin's group  
-Subject: optical properties of topologically insulating pi-conjugated polymers
+* **2020 -- Today**: _Post-doctoral fellow_  
+Sorbonne Université, CNRS - INSP (Paris, France) in Dr. Alex Chin's group  
+Subject: _Optical properties of topologically insulating pi-conjugated polymers_
 
 ### Education
 
