@@ -8,7 +8,8 @@ subtitle:
 
 * **11/2020 -- Today**: _Post-doctoral fellow_  
 Sorbonne Universitées, CNRS - INSP (Paris, France) in Dr. Alex Chin's group  
-Subject: _Optical properties of topologically insulating pi-conjugated polymers_
+Subject: _Optical properties of topologically insulating pi-conjugated polymers_  
+Summary of research activity: The objective of this research project is to study the optical properties of polymers and molecules, in particular excitons, and how they are affected by quantum nuclear and thermal fluctuations (at zero temperature and at finite temperature) using ab-initio techniques. The electronic structure is studied using density functional theory and the optical properties and excitons are explored with N-body corrections (GW approximation and Bethe-Salpeter equation). Finally, quantum anharmonic fluctuations (phonon-phonon interaction) are taken into account using the stochastic self-consistent harmonic approximation.
 
 * **11/2017 -- 10/2020**: _PhD Student in Physics cum Laude_  
 Politecnico di Torino (Torino, Italy)  
