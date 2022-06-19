@@ -16,9 +16,9 @@ author: Davide Romanin
 navbar-links:
   CV: "aboutme"
   Research Activity: 
-    - Field Effect Doping Induced Superconductivity: "aboutme"
-    - Low-dimensional carbon allotropes: "aboutme"
-    - Topologically Insulating Polymers: "aboutme"
+    - Field Effect Doping Induced Superconductivity: "FET"
+    - Low-dimensional carbon allotropes: "carbon"
+    - Topologically Insulating Polymers: "polymers"
   Publications: "publications"
   Teaching: "teaching"
 
