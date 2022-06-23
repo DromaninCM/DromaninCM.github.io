@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Field-effect doping induced superconductivity
+title: FET induced superconductivity
 subtitle: 
 ---
