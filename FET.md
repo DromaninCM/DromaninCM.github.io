@@ -16,7 +16,7 @@ Starting from the band-resolved electron-phonon spectral functions α<sup>2</sup
 
 _References_:
 * D.Romanin, Th. Sohier, D.Daghero, F.Mauri, R.S.Gonnelli and M. Calandra, [_Electric field exfoliation and high-TC superconductivity in field-effect hole-doped hydrogenated diamond (111)_](https://scholar.google.com/citations?hl=en&user=0U81UJ8AAAAJ&view_op=list_works&sortby=pubdate), Applied Surface Science **496**, 143709 (2019) ;
-* * E. Piatti, D. Romanin, D. Daghero and R. S. Gonnelli, [_Two-dimensional hole transport in ion-gated diamond surfaces: A brief review_](https://aip.scitation.org/doi/abs/10.1063/10.0000122), Low Temperature Physics **45**, 1143 (2019) ;
+* E. Piatti, D. Romanin, D. Daghero and R. S. Gonnelli, [_Two-dimensional hole transport in ion-gated diamond surfaces: A brief review_](https://aip.scitation.org/doi/abs/10.1063/10.0000122), Low Temperature Physics **45**, 1143 (2019) ;
 * D. Romanin, G. A. Ummarino and E. Piatti, [_Migdal-Eliashberg theory of multi-band high-temperature superconductivity in field-effect-doped hydrogenated (111) diamond_](https://www.sciencedirect.com/science/article/abs/pii/S0169433220324806), Applied Surface Science **536**, 147723 (2021) .
 
 ## Superconductive proximity effect in the FET geometry:
