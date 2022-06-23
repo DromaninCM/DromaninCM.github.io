@@ -12,7 +12,7 @@ I studied, via density functional theory calculations and its linear response ex
 
 I have investigated the possible occurrence of field-effect induced superconductivity in the hydrogenated (111) diamond surface by first-principles calculations. I have found that at a doping level as large as n = 6 × 10<sup>14</sup> cm<sup>−2</sup>, where the Fermi level crosses three valence bands, the electron-phonon interaction is λ = 0.81 and superconductivity emerges with T<sub>C</sub> ≈ 29 − 36 K. Superconductivity is mostly supported by in-plane diamond phonon vibrations and to a lesser extent by some out-of-plane vibrations. The relevant electron-phonon scattering processes involve both intra and interband scattering so that superconductivity is multiband in nature.
 
-Starting from the band-resolved electron-phonon spectral functions α2Fjj′ (ω) computed ab initio, I have iteratively solved the self-consistent isotropic Migdal-Eliashberg equations, in both the single-band and the multi-band formulations, in the approximation of a constant density of states at the Fermi level. In the single-band formulation, I have found T<sub>C</sub> ≈ 40 K, which is enhanced between 4% and 8% when the multi-band nature of the system is taken into account.
+Starting from the band-resolved electron-phonon spectral functions α<sup>2</sup>F<sub>jj′</sub> (ω) computed ab initio, I have iteratively solved the self-consistent isotropic Migdal-Eliashberg equations, in both the single-band and the multi-band formulations, in the approximation of a constant density of states at the Fermi level. In the single-band formulation, I have found T<sub>C</sub> ≈ 40 K, which is enhanced between 4% and 8% when the multi-band nature of the system is taken into account.
 
 _References_:
 * dd
