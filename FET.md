@@ -21,12 +21,24 @@ _References_:
 
 ## Superconductive proximity effect in the FET geometry:
 
+The superconductive critical temperature can be enhanced or suppressed reversibly by field-effect doping. However the effective doping of the thin film does not involve the sample as a whole. In a field-effect architecture only a small part of the material under study, which directly faces the electrolyte, will be in principle affected by the transverse electric field and thus experience charge accumulation, while the underlying bulk will be unaffected. Therefore, we will have a perturbed superconductor on top of an undoped one, which will be coupled by superconductive proximity effect.
+
+I have therefore employed density functional theory to study the extent of the region of the material affected by the electric field and showed that:
+
+* In the case of NbN, for sufficiently high values of the electric field, we can observe an _anomalous screening_ of the electric field, which goes beyond the (non-linear) Thomas-Fermi theory ;
+* In the case of MgB<sub>2</sub> and Indium thin films, together with a promixity-effect extension of the multi-band Migdal-Eliashberg theory of superconductivity, I have shown how it is possible to tune the superconductive critical temperature T<sub>C</sub> via field-effective doping . 
+
 _References_:
 * E. Piatti, D. Romanin, R. S.Gonnelli and D. Daghero, [_Anomalous screening of an electrostatic field at the surface of niobium nitride_](https://www.sciencedirect.com/science/article/abs/pii/S0169433218315022), Applied Surface Science **461**, 17-22 (2018) ;
 * G. A. Ummarino and D. Romanin, [_Proximity two bands Eliashberg theory of electrostatic field-effect doping in a superconducting film of MgB2_](https://iopscience.iop.org/article/10.1088/1361-648X/aaef6b/meta), J. Phys.: Condens. Matter **31**, 024001 (2018) ;
 * G. A. Ummarino and D. Romanin, [_Theoretical Explanation of Electric Field-Induced Superconductive Critical Temperature Shifts in Indium Thin Films_](https://onlinelibrary.wiley.com/doi/abs/10.1002/pssb.201900651), physica status solidi b **257**, 1900651 (2020) .
 
 ## Field effect doping of MoS<sub>2</sub> nanolayers:
+
+Gated molybdenum disulfide (MoS<sub>2</sub>) exhibits a rich phase diagram upon increasing electron doping. Using density functional theory and the solution of the semiclassical Boltzmann transport equation:
+
+* I have shown that, when the number of layers and the amount of strain are set to their experimental values, the Fermi level crosses the bottom of the high-energy valleys at Q/Q’ at doping levels where characteristic kinks in the transconductance are experimentally detected (Lishfitz transitions) ;
+* I have identified the opening of additional intervalley scattering channels connecting the simultaneously filled K/K’ and Q/Q’ valleys in the Brillouin zone, which are triggered by the two Lifshitz transitions induced by the filling of the high-energy Q/Q’ valleys upon increasing electron doping .
 
 _References_:
 * E. Piatti, D. Romanin and R. S. Gonnelli, [_Mapping multi-valley Lifshitz transitions induced by field-effect doping in strained MoS2 nanolayers_](https://iopscience.iop.org/article/10.1088/1361-648X/aaf981/meta), J. Phys.: Condens. Matter **31**, 114002 (2019) ;
