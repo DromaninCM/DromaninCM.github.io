@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: Citations 82 , h-index 5 , i 10-index 3
+subtitle: Citations 85 , h-index 5 , i 10-index 3
 ---
 
 ## 2022:
