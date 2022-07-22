@@ -8,11 +8,14 @@ subtitle:
 
 * **Nationality**: Italian
 * **Languages**: Italian, English, French
-* **Actual position**: Post-doctoral fellow
+* **Actual position**: Associate Professor
 
 ### Work Experience
 
-* **11/2020 -- Today**: _Post-doctoral fellow_  
+* **09/2022 -- Today**: _Associate Professor_ (_Maître de Conférence_)  
+Polytech - Université Paris-Saclay, Centre de Nanosciences et de Nanotechnologies (C2N), Paris (France)
+
+* **11/2020 -- 08/2022**: _Post-doctoral fellow_  
 Sorbonne Universitées, CNRS - INSP (Paris, France) in Dr. Alex Chin's group  
 Subject: _Optical properties of topologically insulating pi-conjugated polymers_  
 Summary of research activity: The objective of this research project is to study the optical properties of polymers and molecules, in particular excitons, and how they are affected by quantum nuclear and thermal fluctuations (at zero temperature and at finite temperature) using ab-initio techniques. The electronic structure is studied using density functional theory and the optical properties and excitons are explored with N-body corrections (GW approximation and Bethe-Salpeter equation). Finally, quantum anharmonic fluctuations (phonon-phonon interaction) are taken into account using the stochastic self-consistent harmonic approximation.
