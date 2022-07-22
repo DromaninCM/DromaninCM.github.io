@@ -13,7 +13,7 @@ subtitle:
 ### Work Experience
 
 * **09/2022 -- Today**: _Associate Professor_ (_Maître de Conférence_)  
-Polytech - Université Paris-Saclay, Centre de Nanosciences et de Nanotechnologies (C2N), Paris (France)
+Polytech - Université Paris-Saclay, Centre de Nanosciences et de Nanotechnologies (C2N), Paris - France
 
 * **11/2020 -- 08/2022**: _Post-doctoral fellow_  
 Sorbonne Universitées, CNRS - INSP (Paris, France) in Dr. Alex Chin's group  
