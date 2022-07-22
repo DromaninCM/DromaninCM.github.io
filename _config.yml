@@ -41,7 +41,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "davide.romanin@insp.upmc.fr"
+  email: "davide.romanin@universite-paris-saclay.fr"
   google-scholar: citations?user=0U81UJ8AAAAJ
   ORCID: 0000-0003-1094-5369
   github: DromaninCM
