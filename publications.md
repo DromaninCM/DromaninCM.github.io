@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Publications
-subtitle: Citations 87 , h-index 5 , i 10-index 3
+subtitle: Citations 90 , h-index 5 , i 10-index 4
 ---
 
 ## 2022:
 
+* D. Romanin and M. Calandra, [_Giant quantum anharmonic effects on the stability, vibrational and optical properties of cyclo[4n+2]carbon_](https://www.sciencedirect.com/science/article/pii/S2667056922000633?via%3Dihub), Carbon Trends (2022) ;
 * A. Pawbake, T. Pelini, A. Delhomme, D. Romanin, et al., [_High pressure tuning of magnon-polarons in the layered antiferromagnet FePS<sub>3</sub>_](https://pubs.acs.org/doi/full/10.1021/acsnano.2c04286), ACS Nano (2022) ;
 * D. Romanin, M. Calandra and A. W. Chin, [_Highly tunable optics across a topological transition in organic polymers_](https://arxiv.org/abs/2204.00321), arXiv:2204.00321 [cond-mat.mes-hall] (2022) ;
 * L. Boeri, et al., [_The 2021 room-temperature superconductivity roadmap_](https://iopscience.iop.org/article/10.1088/1361-648X/ac2864/meta), J. Phys.: Condens. Matter **34**, 183002 (2022) ;
