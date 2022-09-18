@@ -26,4 +26,5 @@ I have investigated the magnitude of nuclear quantum effects on the stability, v
 isomer is the cumulenic one, setting the transition from the acetilitic to the cumulenic form at n = 3 (at odd with the classical structural optimization setting the transition at n = 2). Moreover, the quantum anharmonic effects generate very large frequency shifts, linewidth broadenings and satellites in the phonon spectral weight hindering any possible interpretation based on the non-interacting harmonic spectrum. The optical absorbance is completely reshaped by quantum anharmonic vibrations and, finally, I have also determined the crystal structure of C18 on a NaCl bilayer to be a buckled
 polyynic phase in agreement with recent experimental findings.
 
-_References_: D. Romanin and M. Calandra, [_Giant quantum anharmonic effects on the stability, vibrational and optical properties of cyclo[4n+2]carbon_](https://www.sciencedirect.com/science/article/pii/S2667056922000633?via%3Dihub), Carbon Trends (2022) ;
+_References_: 
+* D. Romanin and M. Calandra, [_Giant quantum anharmonic effects on the stability, vibrational and optical properties of cyclo[4n+2]carbon_](https://www.sciencedirect.com/science/article/pii/S2667056922000633?via%3Dihub), Carbon Trends (2022) ;
