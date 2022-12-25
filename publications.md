@@ -21,6 +21,7 @@ subtitle: Citations 117 , h-index 5 , i 10-index 4
 ## 2020:
 
 * D. Romanin, Th. Brumme, D. Daghero, R. S. Gonnelli and E. Piatti, [_Strong band-filling-dependence of the scattering lifetime in gated MoS2 nanolayers induced by the opening of intervalley scattering channels_](https://aip.scitation.org/doi/abs/10.1063/5.0017921), Journal of Applied Physics **128**, 063907 (2020) ;
+* D. Romanin, [_Field-effect induced superconductivity in surfaces of tetrahedrally coordinated semiconductors: the case of (111) hydrogenated silicon_](https://doi.org/10.1393/ncc/i2020-20115-3) IL NUOVO CIMENTO C **43**, 115 (2020);
 * G. A. Ummarino and D. Romanin, [_Theoretical Explanation of Electric Field-Induced Superconductive Critical Temperature Shifts in Indium Thin Films_](https://onlinelibrary.wiley.com/doi/abs/10.1002/pssb.201900651), physica status solidi b **257**, 1900651 (2020) ;
 
 ## 2019:
