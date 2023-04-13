@@ -18,4 +18,4 @@ topological excitonic phase transition results in a broad tunability of the sing
 triplet excitons in a large portion of the Brillouin zone, opening a route for spontaneously coherent energy transport at room temperature.
 
 _References_:
-* D. Romanin, M. Calandra and A. W. Chin, [_Highly tunable optics across a topological transition in organic polymers_](https://arxiv.org/abs/2204.00321), arXiv:2204.00321 [cond-mat.mes-hall] (2022) .
+* D. Romanin, M. Calandra and A. W. Chin, [_Excitonic switching across a Z2 topological phase transition: From Mott-Wannier to Frenkel excitons in organic materials_](https://doi.org/10.1103/PhysRevB.106.155122), Phys. Rev. B 106, 155122 (2022) .
