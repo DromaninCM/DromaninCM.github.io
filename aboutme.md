@@ -46,14 +46,6 @@ Grade: _102/110_
   * **Section 28**: Condensed Matter Physics;
   * **Section 31**: Theoretical, Physical and Analytical Chemistry.
 
-### Research supervision
-* 2022, Master (M2) Student: Kent Iyinbor  
-Topic: _Ab-initio study of the optical properties of multi-bridged acene polymers close to a topological phase transition_
-
 ### Administrative Responsibilities
 * 11/2017 -- 10/2020: _Representative of doctoral students for doctoral training in physics_  
 Participation in meetings of the doctoral college. Reference for any request for information concerning the doctoral program in physics. Organization of seminars for the seminar course of the doctorate in physics.
-
-### Conferences
-
-### Awards
