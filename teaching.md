@@ -5,7 +5,7 @@ subtitle:
 ---
 
 ##  Bachelor Level
-* **Guided exercises of electrostatic and magnetostatic**:
+* **Guided exercises of electrostatic/magnetostatic and Electromagnetism**:
   * University: Polytech - Université Paris-Saclay (Orsay, France) ;
   * Bachelor program: 2nd year of the Polytech engineering school pathways .
 
@@ -21,7 +21,7 @@ subtitle:
 * **Electronic structure of matter**:
   * University: Polytech - Université Paris-Saclay (Orsay, France) ;
   * Master program: 1st year of "Materials: Mechanics and Energy"  .
-* **Laboratory experience on magneto-optical Kerr effect**:
+* **Laboratory on magneto-optical Kerr effect**:
   * University: Polytech - Université Paris-Saclay (Orsay, France) ;
   * Master program: 2nd year of "Materials: Mechanics and Energy"  .
 
