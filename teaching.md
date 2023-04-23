@@ -5,7 +5,7 @@ subtitle:
 ---
 
 ##  Bachelor Level
-* **Guided exercises of electrostatic/magnetostatic and Electromagnetism**:
+* **Guided exercises of Electrostatic/Magnetostatic and Electromagnetism**:
   * University: Polytech - Université Paris-Saclay (Orsay, France) ;
   * Bachelor program: 2nd year of the Polytech engineering school pathways .
 
