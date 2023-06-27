@@ -4,6 +4,10 @@ title: Publications
 subtitle: Citations 174 , h-index 6 , i 10-index 4
 ---
 
+## 2023:
+
+* A. Mahmoudi, et al., [_Electronic properties of rhombohedrally stacked bilayer WSe2 obtained by chemical vapor deposition_](https://journals.aps.org/prb/accepted/0e07bOa2P6c10c4399d277c04aeeacfcd780eaaf4), Phys. Rev. B (2023) ;
+
 ## 2022:
 
 * R. Pandya, F. Dorchies, D. Romanin, S. Gigan, A. W. Chin, H. B. de Aguiar and A. Grimaud, [_Competing oxygen evolution reaction mechanisms revealed by high-speed compressive Raman imaging_](https://doi.org/10.48550/arXiv.2211.05818), arXiv:2211.05818 [cond-mat.mtrl-sci] (2022) ;
