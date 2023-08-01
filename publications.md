@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Publications
-subtitle: Citations 181 , h-index 7 , i 10-index 4
+subtitle: Citations 185 , h-index 7 , i 10-index 4
 ---
 
 ## 2023:
 
-* A. Mahmoudi, et al., [_Electronic properties of rhombohedrally stacked bilayer WSe2 obtained by chemical vapor deposition_](https://journals.aps.org/prb/accepted/0e07bOa2P6c10c4399d277c04aeeacfcd780eaaf4), Phys. Rev. B (2023) ;
+* A. Mahmoudi, et al., [_Electronic properties of rhombohedrally stacked bilayer WSe2 obtained by chemical vapor deposition_](https://journals.aps.org/prb/accepted/0e07bOa2P6c10c4399d277c04aeeacfcd780eaaf4), Phys. Rev. B **108 (15)**, 045417 (2023) ;
 
 ## 2022:
 
