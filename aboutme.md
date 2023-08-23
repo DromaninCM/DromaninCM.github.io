@@ -41,11 +41,14 @@ Grade: _110/110 cum Laude_
 Politecnico di Torino (Torino, Italy)  
 Grade: _102/110_  
 
+### Invited Talks
+* **17/08/2023, Stewart Blusson Quantum Matter Institute, UBC, Vancouver (Canada)**: _Quantum Anharmonic and Topologically Insulating Carbon Allotropes_
+
 ### Qualification for the functions of Lecturer
 * **France**:
   * **Section 28**: Condensed Matter Physics;
   * **Section 31**: Theoretical, Physical and Analytical Chemistry.
 
 ### Administrative Responsibilities
-* 11/2017 -- 10/2020: _Representative of doctoral students for doctoral training in physics_  
-Participation in meetings of the doctoral college. Reference for any request for information concerning the doctoral program in physics. Organization of seminars for the seminar course of the doctorate in physics.
+* 06/2023 -- Today: _Lab referent for the HPC facility Ruche at Paris-Saclay University_  
+* 11/2017 -- 10/2020: _Representative of doctoral students for doctoral training in physics_ 
