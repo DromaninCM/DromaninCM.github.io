@@ -7,6 +7,8 @@ subtitle:
 ### Active Students
 
 **PhD Students**:
+* 2023, Owen LOISON (co-director of PhD thesis)<br />
+Topic: _Ab initio investigation of transport properties in VdW heterostructures_
 
 **Master Students (MSc)**:
 
