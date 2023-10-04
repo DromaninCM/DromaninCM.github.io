@@ -8,7 +8,7 @@ subtitle:
 
 * **Nationality**: Italian
 * **Languages**: Italian, English, French
-* **Actual position**: Associate Professor
+* **Actual position**: Associate Professor, Head of the group [**Computational Electronics**](https://comics.c2n.universite-paris-saclay.fr) @ C2N
 
 ### Work Experience
 
