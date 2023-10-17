@@ -6,8 +6,8 @@ subtitle: Citations 214 , h-index 8 , i 10-index 5
 
 ## 2023:
 
-* A. Mahmoudi, et al., [_Quasi van der Waals Epitaxy of Rhombohedral-Stacked Bilayer WSe2 on GaP(111) Heterostructure_](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.045417), Phys. Rev. B **108 (15)**, 045417 (2023) ;
-* A. Mahmoudi, et al., [_Electronic properties of rhombohedrally stacked bilayer WSe2 obtained by chemical vapor deposition_](https://doi.org/10.1021/acsnano.3c05818), ACS Nano (2023) ;
+* A. Mahmoudi, et al., [_Quasi van der Waals Epitaxy of Rhombohedral-Stacked Bilayer WSe2 on GaP(111) Heterostructure_](https://doi.org/10.1021/acsnano.3c05818), ACS Nano (2023) ;
+* A. Mahmoudi, et al., [_Electronic properties of rhombohedrally stacked bilayer WSe2 obtained by chemical vapor deposition_](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.045417), Phys. Rev. B **108 (15)**, 045417 (2023) ;
 
 ## 2022:
 
