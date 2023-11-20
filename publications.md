@@ -6,7 +6,7 @@ subtitle: Citations 223 , h-index 8 , i 10-index 5
 
 ## 2023:
 
-* A. Mahmoudi, et al., [_Quasi van der Waals Epitaxy of Rhombohedral-Stacked Bilayer WSe2 on GaP(111) Heterostructure_](https://doi.org/10.1021/acsnano.3c05818), ACS Nano (2023) ;
+* A. Mahmoudi, et al., [_Quasi van der Waals Epitaxy of Rhombohedral-Stacked Bilayer WSe2 on GaP(111) Heterostructure_](https://doi.org/10.1021/acsnano.3c05818), ACS Nano **17**, 21, 21307–21316 (2023) ;
 * A. Mahmoudi, et al., [_Electronic properties of rhombohedrally stacked bilayer WSe2 obtained by chemical vapor deposition_](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.045417), Phys. Rev. B **108 (15)**, 045417 (2023) ;
 
 ## 2022:
@@ -14,7 +14,7 @@ subtitle: Citations 223 , h-index 8 , i 10-index 5
 * R. Pandya, F. Dorchies, D. Romanin, S. Gigan, A. W. Chin, H. B. de Aguiar and A. Grimaud, [_Competing oxygen evolution reaction mechanisms revealed by high-speed compressive Raman imaging_](https://doi.org/10.48550/arXiv.2211.05818), arXiv:2211.05818 [cond-mat.mtrl-sci] (2022) ;
 * D. Romanin, M. Calandra and A. W. Chin, [_Excitonic switching across a Z2 topological phase transition: From Mott-Wannier to Frenkel excitons in organic materials_](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.155122), Physical Review B **106 (15)**, 155122 (2022) ;
 * D. Romanin and M. Calandra, [_Giant quantum anharmonic effects on the stability, vibrational and optical properties of cyclo[4n+2]carbon_](https://www.sciencedirect.com/science/article/pii/S2667056922000633?via%3Dihub), Carbon Trends **9**, 100207 (2022) ;
-* A. Pawbake, T. Pelini, A. Delhomme, D. Romanin, et al., [_High pressure tuning of magnon-polarons in the layered antiferromagnet FePS<sub>3</sub>_](https://pubs.acs.org/doi/full/10.1021/acsnano.2c04286), ACS Nano 16, 8, 12656–12665 (2022) ;
+* A. Pawbake, T. Pelini, A. Delhomme, D. Romanin, et al., [_High pressure tuning of magnon-polarons in the layered antiferromagnet FePS<sub>3</sub>_](https://pubs.acs.org/doi/full/10.1021/acsnano.2c04286), ACS Nano **16**, 8, 12656–12665 (2022) ;
 * L. Boeri, et al., [_The 2021 room-temperature superconductivity roadmap_](https://iopscience.iop.org/article/10.1088/1361-648X/ac2864/meta), J. Phys.: Condens. Matter **34**, 183002 (2022) ;
 
 ## 2021:
