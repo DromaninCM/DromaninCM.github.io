@@ -11,6 +11,9 @@ subtitle:
 * **Laboratory on magnetic susceptivity and magneto-optical measurements**:
   * University: Polytech - Université Paris-Saclay (Orsay, France) ;
   * Master program: 2nd year of engineering school specialisation "Materials: Mechanics and Energy" (sudents and apprentices).
+* **Methods of characterization of materials**:
+  * University: Polytech - Université Paris-Saclay (Orsay, France) ;
+  * Master program: 2nd year of engineering school specialisation "Materials: Mechanics and Energy".
 
 ##  Bachelor Level
 * **Guided exercises of Electrostatic/Magnetostatic and Electromagnetism**:
