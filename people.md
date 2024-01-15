@@ -22,5 +22,3 @@ Topic: _Theoretical investigation of topologically insulating polymers for energ
 Topic: _Ab initio simulations of thermoelectric properties of low-dimensional materials_
 * 2023, Nicolas NOGUEIRA , L3 - ENS Paris-Saclay (PHYS 1A) <br />
 Topic: _Atomic Modeling of Heat Flow in Solids Using Molecular Dynamics Simulations_
-* 2022, Kent IYINBOR , M2 - SMNO-NANOMAT - Sorbbone Universities<br />
-Topic: _Ab-initio study of the optical properties of multi-bridged acene polymers close to a topological phase transition_
