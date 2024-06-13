@@ -9,10 +9,10 @@ subtitle:
   * Master program: 1st year of engineering school specialisation "Materials: Mechanics and Energy" (sudents).
 * **Physics: introduction to statistical mechanics**:
   * University: Polytech - Université Paris-Saclay (Orsay, France) ;
-  * Master program: 2nd year of engineering school specialisation "Materials: Mechanics and Energy" (sudents)
+  * Master program: 2nd year of engineering school specialisation "Materials: Mechanics and Energy" (apprentices)
 * **Methods of characterization of materials**:
   * University: Polytech - Université Paris-Saclay (Orsay, France) ;
-  * Master program: 2nd year of engineering school specialisation "Materials: Mechanics and Energy" (apprentices).
+  * Master program: 2nd year of engineering school specialisation "Materials: Mechanics and Energy" (sudents).
 * **Laboratory on magnetic susceptivity and magneto-optical measurements**:
   * University: Polytech - Université Paris-Saclay (Orsay, France) ;
   * Master program: 2nd year of engineering school specialisation "Materials: Mechanics and Energy" (sudents and apprentices).
