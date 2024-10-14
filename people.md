@@ -7,18 +7,20 @@ subtitle:
 ### Active Students
 
 **PhD Students**:
+* 2024, Melih AKTAS (co-director of PhD thesis)<br />
+Topic: _Thermoelectricity in low-dimensional topologically-insulating materials_
 * 2023, Owen LOISON (co-director of PhD thesis)<br />
 Topic: _Ab initio investigation of transport properties in VdW heterostructures_
 
 **Master Students (MSc)**:
-* 2024, Melih AKTAS , M2 QLMN - Paris-Saclay University<br />
-Topic: _Theoretical investigation of topologically insulating polymers for energy applications_
 
 **Third-year Students (BSc)**:
 
 ### Alumni
 
 **Master Students (MSc)**:
+* 2024, Melih AKTAS , M2 QLMN - Paris-Saclay University<br />
+Topic: _Theoretical investigation of topologically insulating polymers for energy applications_
 * 2023, Thibaut VOUILLOT , M2 - CentraleSupélec <br />
 Topic: _Ab initio simulations of thermoelectric properties of low-dimensional materials_
 
