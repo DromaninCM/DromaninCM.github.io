@@ -1,8 +1,18 @@
 ---
 layout: page
 title: Publications
-subtitle: Citations 242 , h-index 9 , i 10-index 7
+subtitle: Citations 401 , h-index 10 , i 10-index 10
 ---
+## 2025:
+
+* E. Parth, et al., [_The resonant Raman response of confined carbyne is solely driven by anharmonic interactions_](https://doi.org/10.1038/s41467-024-52536-7), Nat. Commun. (2025) ;
+
+## 2024:
+
+* A. Mahmoudi, et al., [_Distinguishing different stackings in WSe2 bilayers grown using chemical vapor deposition_](https://doi.org/10.1103/PhysRevB.110.165418), Phys. Rev. B **110**, 165418 (2024) ;
+* R. Pandya, F. Dorchies, D. Romanin, S. Gigan, A. W. Chin, H. B. de Aguiar and A. Grimaud, [_Concurrent oxygen evolution reaction pathways revealed by high-speed compressive Raman imaging_](https://doi.org/10.1038/s41467-024-52536-7), Nat. Commun. **15**, 8362 (2024) ;
+* M. Bouaziz, et al., [_Anisotropic flat band and charge density wave in quasi-one-dimensional indium telluride_](https://doi.org/10.1103/PhysRevB.110.045441), Phys. Rev. B **110**, 045441 (2024) ;
+* A. Mahmoudi, et al., [_Stacking order and electronic band structure in MBE-grown trilayer WSe2 films_](https://doi.org/10.1103/PhysRevB.109.115437), Phys. Rev. B **109**, 115437 (2024) ;
 
 ## 2023:
 
@@ -11,7 +21,6 @@ subtitle: Citations 242 , h-index 9 , i 10-index 7
 
 ## 2022:
 
-* R. Pandya, F. Dorchies, D. Romanin, S. Gigan, A. W. Chin, H. B. de Aguiar and A. Grimaud, [_Competing oxygen evolution reaction mechanisms revealed by high-speed compressive Raman imaging_](https://doi.org/10.48550/arXiv.2211.05818), arXiv:2211.05818 [cond-mat.mtrl-sci] (2022) ;
 * D. Romanin, M. Calandra and A. W. Chin, [_Excitonic switching across a Z2 topological phase transition: From Mott-Wannier to Frenkel excitons in organic materials_](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.155122), Physical Review B **106 (15)**, 155122 (2022) ;
 * D. Romanin and M. Calandra, [_Giant quantum anharmonic effects on the stability, vibrational and optical properties of cyclo[4n+2]carbon_](https://www.sciencedirect.com/science/article/pii/S2667056922000633?via%3Dihub), Carbon Trends **9**, 100207 (2022) ;
 * A. Pawbake, T. Pelini, A. Delhomme, D. Romanin, et al., [_High pressure tuning of magnon-polarons in the layered antiferromagnet FePS<sub>3</sub>_](https://pubs.acs.org/doi/full/10.1021/acsnano.2c04286), ACS Nano **16**, 8, 12656–12665 (2022) ;
